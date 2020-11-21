@@ -5,4 +5,4 @@ Includes:
   - HTML file 
   - CSS file 
   - Server.Js file using node.js
-  -App.JS file to manage JQuery
+  - App.JS file to manage JQuery
